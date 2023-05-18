@@ -1,0 +1,19 @@
+{
+  "name": "@ikarus-himanshu/gp-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikarus-himanshu/gp-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ikarus-himanshu/gp-test/issues"
+  },
+  "homepage": "https://github.com/ikarus-himanshu/gp-test#readme"
+}
