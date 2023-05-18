@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ikarus-himanshu/gp-test/issues"
   },
-  "homepage": "https://github.com/ikarus-himanshu/gp-test#readme"
+  "homepage": "https://github.com/ikarus-himanshu/gp-test#readme",
+  "publishConfig": {
+    "@ikarus-himanshu:registry": "https://npm.pkg.github.com"
+  }
 }
